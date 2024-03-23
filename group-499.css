@@ -1,0 +1,13 @@
+.image-2-icon {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 370px;
+  height: 472px;
+  object-fit: cover;
+}
+.image-2-parent {
+  width: 100%;
+  position: relative;
+  height: 472px;
+}

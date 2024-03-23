@@ -1,0 +1,227 @@
+.g10-icon6,
+.g10-icon7 {
+  position: absolute;
+  height: 39.81%;
+  width: 100%;
+  top: 39.81%;
+  right: 0;
+  bottom: 20.39%;
+  left: 0;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  object-fit: cover;
+}
+.g10-icon7 {
+  height: 60.18%;
+  top: 100%;
+  bottom: -60.18%;
+}
+.a-passion-project {
+  position: absolute;
+  top: 46px;
+  left: 0;
+  display: inline-block;
+  width: 1145px;
+  height: 162px;
+}
+.context1 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  font-weight: 600;
+}
+.a-passion-project-where-i-seek-parent {
+  position: absolute;
+  top: 679px;
+  left: 79px;
+  width: 1145px;
+  height: 208px;
+}
+.holystoked-skateboarding1 {
+  position: absolute;
+  top: 250px;
+  left: 79px;
+  font-size: var(--font-size-13xl);
+  font-weight: 600;
+}
+.project5-child {
+  position: absolute;
+  top: 307.5px;
+  left: 56.5px;
+  border-top: 1px solid var(--color-gray-400);
+  box-sizing: border-box;
+  width: 1128px;
+  height: 1px;
+}
+.team4 {
+  position: absolute;
+  top: 455px;
+  left: 79px;
+  font-weight: 600;
+}
+.rishi-gurrala8 {
+  top: 511px;
+  font-size: var(--font-size-xl);
+}
+.e-commerce1,
+.rishi-gurrala8,
+.type4 {
+  position: absolute;
+  left: 79px;
+}
+.type4 {
+  top: 343px;
+  font-weight: 600;
+}
+.e-commerce1 {
+  top: 392px;
+}
+.shopify-developer {
+  margin: 0;
+}
+.adobe-xd-shopify-container,
+.tools4 {
+  position: absolute;
+  top: 51px;
+  left: 5px;
+}
+.tools4 {
+  top: 0;
+  left: 0;
+  font-size: var(--font-size-3xl);
+  font-weight: 600;
+}
+.adobe-xd-shopify-developer-parent {
+  position: absolute;
+  top: 455px;
+  left: 921px;
+  width: 179px;
+  height: 123px;
+  font-size: var(--font-size-xl);
+}
+.duration4,
+.weeks4 {
+  position: absolute;
+  left: 921px;
+}
+.duration4 {
+  top: 347px;
+  font-weight: 600;
+}
+.weeks4 {
+  top: 395px;
+  font-size: var(--font-size-xl);
+}
+.project5-item {
+  position: absolute;
+  top: 0;
+  left: 0;
+  background-color: var(--color-black);
+  box-shadow: 7px 4px 4px rgba(0, 0, 0, 0.25);
+  width: 1280px;
+  height: 108px;
+}
+.about7 {
+  left: 0;
+}
+.about7,
+.projects8,
+.resume6 {
+  position: absolute;
+  top: 0;
+}
+.projects8 {
+  left: 92px;
+  color: var(--color-blanchedalmond);
+  cursor: pointer;
+}
+.resume6 {
+  left: 200px;
+  color: var(--color-gray-100);
+}
+.about-parent2,
+.rishi-gurrala9 {
+  position: absolute;
+  color: var(--color-whitesmoke);
+}
+.about-parent2 {
+  top: 45px;
+  left: 39px;
+  width: 268px;
+  height: 22px;
+  font-size: var(--font-size-lg);
+}
+.rishi-gurrala9 {
+  top: 31px;
+  left: 900px;
+  font-size: var(--font-size-13xl);
+  font-family: var(--font-lexend-zetta);
+}
+.project5-inner {
+  position: absolute;
+  top: 920px;
+  left: 82px;
+  background-color: var(--color-gainsboro-100);
+  width: 1096px;
+  height: 603px;
+}
+.e-commerce-information-archite-container {
+  position: absolute;
+  top: 1113px;
+  left: 198px;
+  font-size: var(--font-size-13xl);
+  font-weight: 600;
+}
+.back-to-projects6 {
+  position: absolute;
+  top: 0;
+  left: 38px;
+  font-weight: 500;
+}
+.frame-child14 {
+  position: absolute;
+  top: 10.5px;
+  left: -0.5px;
+  border-top: 1px solid var(--color-black);
+  box-sizing: border-box;
+  width: 27px;
+  height: 1px;
+}
+.frame-child15,
+.frame-child16 {
+  position: absolute;
+  top: 11px;
+  left: 0;
+  width: 13px;
+  height: 10.1px;
+  object-fit: contain;
+}
+.frame-child16 {
+  top: 1px;
+  height: 10px;
+}
+.back-to-projects-parent3,
+.back-to-projects-parent4 {
+  position: absolute;
+  top: 174px;
+  left: 79px;
+  width: 178px;
+  height: 22px;
+  font-size: var(--font-size-lg);
+}
+.back-to-projects-parent4 {
+  top: 1660px;
+  left: 86px;
+}
+.project5 {
+  width: 100%;
+  position: relative;
+  background-color: var(--color-white);
+  height: 1799px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-3xl);
+  color: var(--color-black);
+  font-family: var(--font-inter);
+}
