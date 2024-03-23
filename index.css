@@ -28,7 +28,7 @@
   left: 0;
   background-color: var(--color-black);
   box-shadow: 7px 4px 4px rgba(0, 0, 0, 0.25);
-  width: 2280px;
+  width: 2800px;
   height: 108px;
 }
 .index-child,
@@ -122,7 +122,7 @@
 .rishigurralalogo {
   position: absolute;
   top: 31px;
-  left: 31px;
+  right: 31px;
   font-size: var(--font-size-13xl);
   font-family: var(--font-lexend-zetta);
   color: var(--color-whitesmoke);
