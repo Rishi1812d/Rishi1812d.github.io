@@ -595,7 +595,7 @@
 .rishigurralalogo1 {
   position: absolute;
   top: 31px;
-  left: 900px;
+  right: 31px;
   font-size: var(--font-size-13xl);
   font-family: var(--font-lexend-zetta);
   color: var(--color-whitesmoke);
